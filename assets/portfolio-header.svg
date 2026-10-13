@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-labelledby="title desc">
+  <title id="title">yoonseo · Selected Work</title>
+  <desc id="desc">게임과 일상의 작은 상호작용을 만듭니다</desc>
+  <rect width="1200" height="260" rx="16" fill="#142D2A"/>
+  <path d="M850 0V260M950 0V260M1050 0V260M1150 0V260M800 60H1200M800 160H1200" stroke="#25443E" stroke-width="1"/>
+  <circle cx="1060" cy="121" r="63" fill="none" stroke="#AACDA9" stroke-width="2"/>
+  <path d="M962 161H1101V222H962Z" fill="#D0EBBC"/>
+  <circle cx="967" cy="64" r="9" fill="#D0EBBC"/>
+  <text x="54" y="57" fill="#AACDA9" font-family="Segoe UI, sans-serif" font-size="16" letter-spacing="4">YOONSEO / SELECTED WORK</text>
+  <text x="52" y="129" fill="#F6F6ED" font-family="Malgun Gothic, Apple SD Gothic Neo, sans-serif" font-size="39" font-weight="700">게임과 일상의</text>
+  <text x="52" y="185" fill="#F6F6ED" font-family="Malgun Gothic, Apple SD Gothic Neo, sans-serif" font-size="39" font-weight="700">작은 상호작용을 만듭니다</text>
+  <text x="54" y="229" fill="#AACDA9" font-family="Segoe UI, sans-serif" font-size="15" letter-spacing="2">GAMES · WEB · ANDROID</text>
+</svg>
